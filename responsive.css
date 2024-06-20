@@ -1,0 +1,144 @@
+@media screen and (max-width:1371px) {
+    .header_nav {
+        margin-right: 120px;
+        gap: 40px;
+    }
+
+    .text h2 {
+        margin-right: 120px;
+    }
+    .header_description_container{
+        padding-left: 70px;
+        padding-right: 70px;
+    }
+}
+
+@media screen and (max-width:1225px) {
+    .grid_container {
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+    .container{
+        margin-left: 40px;
+        margin-right: 40px;
+    
+    }
+    .container2{
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+    .card2_center_img img {
+        width: 446px;
+        height: 400px;
+    }
+    .card2_center{
+        width: 446px;
+    }
+
+    .container3{
+        margin-right: 40px;
+        margin-left: 40px;
+
+
+    }
+    .footer_top{
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+    .header_top_container{
+        padding: 26px 80px 0px 80px;
+    }
+    .card2{
+        gap: 20px;
+    }
+
+
+}
+
+@media screen and (max-width:1175px) {
+    .header_description_info {
+        width: 410px;
+
+    }
+    .header_description_img img{
+        width: 410px;
+        height: 336px;
+    }
+    .header_description_info input{
+        width: 270px;
+    }
+    .header_description_info h1 {
+        font-size: 210%;
+    } 
+    .information{
+        flex-direction: column;
+    }
+    .information input{
+        width: 510px;
+    }
+    .table input{
+        width: 300px;
+    }
+    .header_top_container{
+        padding: 26px 40px 0px 40px;
+    }
+    .header_description_container{
+        padding-left: 40px;
+        padding-right: 40px;
+}
+
+@media screen and (max-width:1106px) {
+    .card2_center_img img {
+        width: 346px;
+        height: 300px;
+    }
+    .card2_center{
+        width: 346px;
+    }
+
+}
+
+@media screen and (max-width:1012px) {
+    .header_description_img img{
+        width: 350px;
+        height: 280px;
+    }
+    .header_description_info input {
+        width: 200px;
+        height: 45px;
+    }
+    .header_description_info button{
+        padding: 11px 20px 14px;
+    }
+    .card2_left {
+        width: 200px;
+    
+    }
+    
+    .card2_left_img img {
+        width: 200px;
+        height: 183px;
+    }
+    .card2_right {
+        width: 200px;
+    
+    }
+    
+    .card2_right_img img {
+        width: 200px;
+
+}
+
+@media screen and (max-width:) {}
+
+@media screen and (max-width:) {}
+
+@media screen and (max-width:) {}
+
+@media screen and (max-width:) {}
+
+@media screen and (max-width:) {}
+
+@media screen and (max-width:) {}
+
+@media screen and (max-width:) {}
